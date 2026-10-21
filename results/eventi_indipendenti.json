@@ -1,0 +1,223 @@
+[
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "oggetto": "akita_black_bowl_2_main",
+  "stati_colpiti": 2,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 46,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 2,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 2,
+  "scarto_cm_per_esito": [
+   1.85,
+   5.4
+  ]
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 2,
+  "oggetto": "plate_1_main",
+  "stati_colpiti": 1,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 47,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 1,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 1,
+  "scarto_cm_per_esito": [
+   3.21
+  ]
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 5,
+  "oggetto": "akita_black_bowl_1_main",
+  "stati_colpiti": 50,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 49,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 49,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 1,
+  "scarto_cm_per_esito": [
+   3.43
+  ]
+ },
+ {
+  "suite": "libero_spatial",
+  "task": 8,
+  "oggetto": "akita_black_bowl_1_main",
+  "stati_colpiti": 5,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 47,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 5,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 5,
+  "scarto_cm_per_esito": [
+   1.26,
+   1.33,
+   3.02,
+   3.25,
+   5.58
+  ]
+ },
+ {
+  "suite": "libero_10",
+  "task": 0,
+  "oggetto": "cream_cheese_1_main",
+  "stati_colpiti": 3,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 49,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 3,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 3,
+  "scarto_cm_per_esito": [
+   16.1,
+   28.11,
+   33.96
+  ]
+ },
+ {
+  "suite": "libero_10",
+  "task": 0,
+  "oggetto": "ketchup_1_main",
+  "stati_colpiti": 50,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 48,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 48,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 1,
+  "scarto_cm_per_esito": [
+   54.19
+  ]
+ },
+ {
+  "suite": "libero_10",
+  "task": 0,
+  "oggetto": "orange_juice_1_main",
+  "stati_colpiti": 50,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 50,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 50,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 3,
+  "scarto_cm_per_esito": [
+   37.69,
+   37.93,
+   38.23
+  ]
+ },
+ {
+  "suite": "libero_10",
+  "task": 0,
+  "oggetto": "milk_1_main",
+  "stati_colpiti": 50,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 48,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 48,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 2,
+  "scarto_cm_per_esito": [
+   37.65,
+   38.23
+  ]
+ },
+ {
+  "suite": "libero_10",
+  "task": 1,
+  "oggetto": "ketchup_1_main",
+  "stati_colpiti": 50,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 50,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 50,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 1,
+  "scarto_cm_per_esito": [
+   54.19
+  ]
+ },
+ {
+  "suite": "libero_10",
+  "task": 1,
+  "oggetto": "orange_juice_1_main",
+  "stati_colpiti": 50,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 49,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 49,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 1,
+  "scarto_cm_per_esito": [
+   38.23
+  ]
+ },
+ {
+  "suite": "libero_10",
+  "task": 1,
+  "oggetto": "milk_1_main",
+  "stati_colpiti": 50,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 48,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 48,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 1,
+  "scarto_cm_per_esito": [
+   38.23
+  ]
+ },
+ {
+  "suite": "libero_10",
+  "task": 6,
+  "oggetto": "plate_1_main",
+  "stati_colpiti": 2,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 47,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 2,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 2,
+  "scarto_cm_per_esito": [
+   3.95,
+   4.95
+  ]
+ },
+ {
+  "suite": "libero_10",
+  "task": 7,
+  "oggetto": "tomato_sauce_1_main",
+  "stati_colpiti": 1,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 48,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 1,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 1,
+  "scarto_cm_per_esito": [
+   14.65
+  ]
+ },
+ {
+  "suite": "libero_10",
+  "task": 7,
+  "oggetto": "ketchup_1_main",
+  "stati_colpiti": 50,
+  "stati_totali": 50,
+  "configurazioni_distinte_a_posa_completa_su_50": 50,
+  "configurazioni_a_posa_completa_fra_i_colpiti": 50,
+  "configurazioni_distinte_quota_e_orientazione_su_50": 1,
+  "configurazioni_quota_e_orientazione_fra_i_colpiti": 1,
+  "esiti_distinti_fra_i_colpiti": 1,
+  "scarto_cm_per_esito": [
+   54.19
+  ]
+ }
+]

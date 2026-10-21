@@ -1,0 +1,36 @@
+# Compatibility patch so that robosuite 1.4.0 runs on MuJoCo 3.12.0 (applied only in the 3.12.0 environment).
+# 1) in 3.12.0, 'mujoco.mjtJoint.X == np.int32(3)' is False while 'np.int32(3) == mujoco.mjtJoint.X' is True; the assertion
+#    'joint_type in (enum, enum)' compares with the enum on the left and fails. int() on both sides fixes it.
+# 2) mj_fullM(m, dst, qM) became mj_fullM(m, d, dst) and MjData.qM is now M. The full mass matrix is identical (checked).
+# Apply from the site-packages directory:  patch -p1 < robosuite_mujoco312.patch
+--- a/robosuite/utils/binding_utils.py
++++ b/robosuite/utils/binding_utils.py
+@@ -518,7 +518,7 @@
+         elif joint_type == mujoco.mjtJoint.mjJNT_BALL:
+             ndim = 4
+         else:
+-            assert joint_type in (mujoco.mjtJoint.mjJNT_HINGE, mujoco.mjtJoint.mjJNT_SLIDE)
++            assert int(joint_type) in (int(mujoco.mjtJoint.mjJNT_HINGE), int(mujoco.mjtJoint.mjJNT_SLIDE))
+             ndim = 1
+ 
+         if ndim == 1:
+@@ -543,7 +543,7 @@
+         elif joint_type == mujoco.mjtJoint.mjJNT_BALL:
+             ndim = 3
+         else:
+-            assert joint_type in (mujoco.mjtJoint.mjJNT_HINGE, mujoco.mjtJoint.mjJNT_SLIDE)
++            assert int(joint_type) in (int(mujoco.mjtJoint.mjJNT_HINGE), int(mujoco.mjtJoint.mjJNT_SLIDE))
+             ndim = 1
+ 
+         if ndim == 1:
+--- a/robosuite/controllers/base_controller.py
++++ b/robosuite/controllers/base_controller.py
+@@ -153,7 +153,7 @@
+             self.J_full = np.array(np.vstack([self.J_pos, self.J_ori]))
+ 
+             mass_matrix = np.ndarray(shape=(self.sim.model.nv, self.sim.model.nv), dtype=np.float64, order="C")
+-            mujoco.mj_fullM(self.sim.model._model, mass_matrix, self.sim.data.qM)
++            mujoco.mj_fullM(self.sim.model._model, self.sim.data._data, mass_matrix)
+             mass_matrix = np.reshape(mass_matrix, (len(self.sim.data.qvel), len(self.sim.data.qvel)))
+             self.mass_matrix = mass_matrix[self.qvel_index, :][:, self.qvel_index]
+ 

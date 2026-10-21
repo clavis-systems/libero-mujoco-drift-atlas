@@ -1,0 +1,94 @@
+{
+ "mujoco": "3.8.1",
+ "robosuite": "1.4.0",
+ "numpy": "2.2.6",
+ "python": "3.12.15",
+ "piattaforma": "Linux-6.6.114.1-microsoft-standard-WSL2-x86_64-with-glibc2.43",
+ "suite": "libero_spatial",
+ "seme_base": 0,
+ "passi_attesa": 10,
+ "freq_controllo": 20,
+ "sha256_script": "e4308ef1996a64e199ceb1b763b216f1929145818fe5069ecb3588b141ed3555",
+ "task": {
+  "0": {
+   "nome": "pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_plate",
+   "sha256_init": "cbbc73792ce546c9bec181fd328a411d3183074840b282671dee481511381d0a",
+   "n_stati": 50,
+   "n_voci": 9,
+   "sha256_q10": "e7ae54bdda283d9492892ceb7366de57a7de3465ff2f7ad5d055be0c352420f4",
+   "secondi": 32.3
+  },
+  "1": {
+   "nome": "pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate",
+   "sha256_init": "9b6927b6ef03460ab055141e1a1154ad85e5e290058d8ed3a8a314aff911f864",
+   "n_stati": 50,
+   "n_voci": 9,
+   "sha256_q10": "c8db5b892f8aa9a21ae6e4202996112a5d6152a53139ba44eb8a3e4bafcab3c5",
+   "secondi": 28.7
+  },
+  "2": {
+   "nome": "pick_up_the_black_bowl_from_table_center_and_place_it_on_the_plate",
+   "sha256_init": "27d5b81d739f969e40c72b6c88699e57a91ea61209946b21c593aae5990689cb",
+   "n_stati": 50,
+   "n_voci": 9,
+   "sha256_q10": "a61c0052270fbc52c3beb1564218c08cb71b98c3cdc60c4f7668e3247726d727",
+   "secondi": 27.7
+  },
+  "3": {
+   "nome": "pick_up_the_black_bowl_on_the_cookie_box_and_place_it_on_the_plate",
+   "sha256_init": "0627f5f5ce3ef23be546571012be8ef603d93bcb4032bc80feb34937ba580140",
+   "n_stati": 50,
+   "n_voci": 9,
+   "sha256_q10": "fd9e4b5cc8e1fc78307b3d7e3558f451bc10822b1dd1a73ef0ab90e13ef6f5af",
+   "secondi": 27.0
+  },
+  "4": {
+   "nome": "pick_up_the_black_bowl_in_the_top_drawer_of_the_wooden_cabinet_and_place_it_on_the_plate",
+   "sha256_init": "deef3df529e0bb57658b973bbb3baf02b02922db065c025a73ebfcd11eb54d46",
+   "n_stati": 50,
+   "n_voci": 9,
+   "sha256_q10": "11dca1d2a209c6e470f8a851b8ec4ce839f3e6e6811430152ff68a6ae7b6667c",
+   "secondi": 26.2
+  },
+  "5": {
+   "nome": "pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_plate",
+   "sha256_init": "2d2c50b7dcbf861fffa94d576f217ed34153e57487010d7a109a220d4d97189b",
+   "n_stati": 50,
+   "n_voci": 9,
+   "sha256_q10": "7af98462175f24898a79f45c1c21487e369be074dac81ed7689c8d6c5c352c34",
+   "secondi": 25.8
+  },
+  "6": {
+   "nome": "pick_up_the_black_bowl_next_to_the_cookie_box_and_place_it_on_the_plate",
+   "sha256_init": "ab86fb7b5942dc0fec762eae57e72bf636106b1c10ad8ce57227723d8eb9a81b",
+   "n_stati": 50,
+   "n_voci": 9,
+   "sha256_q10": "fc3515d4b413fe4637d9a10fa07dd729b5cf457e7c2f97a3feed9e8b4f6cc6ed",
+   "secondi": 25.0
+  },
+  "7": {
+   "nome": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate",
+   "sha256_init": "ea9cba2814bc166f3682f3f5a97329467839bcf584069cd419191b6c17adae25",
+   "n_stati": 50,
+   "n_voci": 9,
+   "sha256_q10": "d59c9ce7cd4df27dd1010f863f5e48867c928fe71e992790ee525c8eff5b661c",
+   "secondi": 25.5
+  },
+  "8": {
+   "nome": "pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the_plate",
+   "sha256_init": "f43df2d80042130ac8770590d83f1a1e6fd4df7479aebc392aa2ed6e3bd0b83e",
+   "n_stati": 50,
+   "n_voci": 9,
+   "sha256_q10": "c4a4a6ad2072b185c5bc0922a4886ed87b62ab649ac03e91600d561f220f4df2",
+   "secondi": 26.7
+  },
+  "9": {
+   "nome": "pick_up_the_black_bowl_on_the_wooden_cabinet_and_place_it_on_the_plate",
+   "sha256_init": "08b0ac928dcc524a66d963851a6a4eece9aeb782b38466006e403a70e3287867",
+   "n_stati": 50,
+   "n_voci": 9,
+   "sha256_q10": "8a7730571f00eedc8cb66e9871af79c0e1318418ba712d30deb212a67f17087f",
+   "secondi": 28.1
+  }
+ }
+}

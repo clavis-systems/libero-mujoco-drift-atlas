@@ -1,0 +1,180 @@
+TRAIETTORIA VERTICALE DEL KETCHUP (libero_10) — quota z in metri e velocità lineare in m/s, mediana (minimo..massimo) sui 50 stati.
+Passo 0 = subito dopo set_init_state (stato salvato). Generato da traiettoria_ketchup.py; dati grezzi nei JSON accanto.
+
+=== libero_10 task 0: LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket
+-- MuJoCo 3.12.0 (oggetto: ketchup_1_main|ketchup_1_joint0); quota salvata mediana 0.4800 m
+   picco di quota: mediana 1.1396 m (min 1.1396, max 1.1396), al passo 7 (mediana)
+   passo | z mediana (min..max)        | velocità mediana (max)   | z stato 0
+       0 | 0.4800 (0.4800..0.4800) | 0 (0) | 0.4800
+       1 | 0.6501 (0.6501..0.6501) | 3.154 (3.154) | 0.6501
+       2 | 0.7945 (0.7945..0.7945) | 2.641 (2.641) | 0.7945
+       3 | 0.9134 (0.9134..0.9134) | 2.136 (2.136) | 0.9134
+       4 | 1.0071 (1.0071..1.0071) | 1.635 (1.635) | 1.0071
+       5 | 1.0760 (1.0760..1.0760) | 1.139 (1.139) | 1.0760
+       6 | 1.1201 (1.1201..1.1201) | 0.6455 (0.6455) | 1.1201
+       7 | 1.1396 (1.1396..1.1396) | 0.1542 (0.1542) | 1.1396
+       8 | 1.1345 (1.1345..1.1345) | 0.3362 (0.3362) | 1.1345
+       9 | 1.1050 (1.1050..1.1050) | 0.8252 (0.8252) | 1.1050
+      10 | 1.0511 (1.0511..1.0511) | 1.312 (1.312) | 1.0511
+      20 | 0.5092 (0.5092..0.5092) | 3.119e-12 (3.458e-12) | 0.5092
+      40 | 0.5092 (0.5092..0.5092) | 4.528e-12 (5.946e-12) | 0.5092
+     100 | 0.5092 (0.5092..0.5092) | 3.185e-11 (4.876e-11) | 0.5092
+   stati con velocità > 0,05 m/s al passo 10: 50/50; al passo 100: 0/50
+   contatti allo stato salvato: 50/50 stati con compenetrazione > 0,1 mm; stato 0 (peggiori): living_room_table_col -2.92 cm, living_room_table_col -2.92 cm, living_room_table_col -2.92 cm
+-- MuJoCo 3.3.7 (oggetto: ketchup_1_main|ketchup_1_joint0); quota salvata mediana 0.4800 m
+   picco di quota: mediana 0.6491 m (min 0.6491, max 0.6491), al passo 4 (mediana)
+   passo | z mediana (min..max)        | velocità mediana (max)   | z stato 0
+       0 | 0.4800 (0.4800..0.4800) | 0 (0) | 0.4800
+       1 | 0.5594 (0.5594..0.5594) | 1.348 (1.348) | 0.5594
+       2 | 0.6139 (0.6139..0.6139) | 0.854 (0.854) | 0.6139
+       3 | 0.6438 (0.6438..0.6438) | 0.3619 (0.3619) | 0.6438
+       4 | 0.6491 (0.6491..0.6491) | 0.1288 (0.1288) | 0.6491
+       5 | 0.6300 (0.6300..0.6300) | 0.6185 (0.6185) | 0.6300
+       6 | 0.5863 (0.5863..0.5863) | 1.106 (1.106) | 0.5863
+       7 | 0.5184 (0.5184..0.5184) | 1.591 (1.591) | 0.5184
+       8 | 0.5092 (0.5092..0.5092) | 0.002097 (0.002097) | 0.5092
+       9 | 0.5092 (0.5092..0.5092) | 7.45e-05 (7.45e-05) | 0.5092
+      10 | 0.5092 (0.5092..0.5092) | 2.646e-06 (2.646e-06) | 0.5092
+      20 | 0.5092 (0.5092..0.5092) | 2.294e-14 (2.778e-14) | 0.5092
+      40 | 0.5092 (0.5092..0.5092) | 2.294e-14 (2.778e-14) | 0.5092
+     100 | 0.5092 (0.5092..0.5092) | 2.294e-14 (2.807e-14) | 0.5092
+   stati con velocità > 0,05 m/s al passo 10: 0/50; al passo 100: 0/50
+   contatti allo stato salvato: 50/50 stati con compenetrazione > 0,1 mm; stato 0 (peggiori): living_room_table_col -1.46 cm, living_room_table_col -1.46 cm, living_room_table_col -1.46 cm
+-- MuJoCo 3.8.1 (oggetto: ketchup_1_main|ketchup_1_joint0); quota salvata mediana 0.4800 m
+   picco di quota: mediana 1.1396 m (min 1.1396, max 1.1396), al passo 7 (mediana)
+   passo | z mediana (min..max)        | velocità mediana (max)   | z stato 0
+       0 | 0.4800 (0.4800..0.4800) | 0 (0) | 0.4800
+       1 | 0.6501 (0.6501..0.6501) | 3.154 (3.154) | 0.6501
+       2 | 0.7945 (0.7945..0.7945) | 2.641 (2.641) | 0.7945
+       3 | 0.9134 (0.9134..0.9134) | 2.136 (2.136) | 0.9134
+       4 | 1.0071 (1.0071..1.0071) | 1.635 (1.635) | 1.0071
+       5 | 1.0760 (1.0760..1.0760) | 1.139 (1.139) | 1.0760
+       6 | 1.1201 (1.1201..1.1201) | 0.6455 (0.6455) | 1.1201
+       7 | 1.1396 (1.1396..1.1396) | 0.1542 (0.1542) | 1.1396
+       8 | 1.1345 (1.1345..1.1345) | 0.3362 (0.3362) | 1.1345
+       9 | 1.1050 (1.1050..1.1050) | 0.8252 (0.8252) | 1.1050
+      10 | 1.0511 (1.0511..1.0511) | 1.312 (1.312) | 1.0511
+      20 | 0.5092 (0.5092..0.5092) | 2.324e-14 (2.751e-14) | 0.5092
+      40 | 0.5092 (0.5092..0.5092) | 2.324e-14 (2.75e-14) | 0.5092
+     100 | 0.5092 (0.5092..0.5092) | 2.334e-14 (2.75e-14) | 0.5092
+   stati con velocità > 0,05 m/s al passo 10: 50/50; al passo 100: 0/50
+   contatti allo stato salvato: 50/50 stati con compenetrazione > 0,1 mm; stato 0 (peggiori): living_room_table_col -2.92 cm, living_room_table_col -2.92 cm, living_room_table_col -2.92 cm
+
+=== libero_10 task 1: LIVING_ROOM_SCENE2_put_both_the_cream_cheese_box_and_the_butter_in_the_basket
+-- MuJoCo 3.12.0 (oggetto: ketchup_1_main|ketchup_1_joint0); quota salvata mediana 0.4800 m
+   picco di quota: mediana 1.1396 m (min 1.1396, max 1.1396), al passo 7 (mediana)
+   passo | z mediana (min..max)        | velocità mediana (max)   | z stato 0
+       0 | 0.4800 (0.4800..0.4800) | 0 (0) | 0.4800
+       1 | 0.6501 (0.6501..0.6501) | 3.154 (3.154) | 0.6501
+       2 | 0.7945 (0.7945..0.7945) | 2.641 (2.641) | 0.7945
+       3 | 0.9134 (0.9134..0.9134) | 2.136 (2.136) | 0.9134
+       4 | 1.0071 (1.0071..1.0071) | 1.635 (1.635) | 1.0071
+       5 | 1.0760 (1.0760..1.0760) | 1.139 (1.139) | 1.0760
+       6 | 1.1201 (1.1201..1.1201) | 0.6455 (0.6455) | 1.1201
+       7 | 1.1396 (1.1396..1.1396) | 0.1542 (0.1542) | 1.1396
+       8 | 1.1345 (1.1345..1.1345) | 0.3362 (0.3362) | 1.1345
+       9 | 1.1050 (1.1050..1.1050) | 0.8252 (0.8252) | 1.1050
+      10 | 1.0511 (1.0511..1.0511) | 1.312 (1.312) | 1.0511
+      20 | 0.5092 (0.5092..0.5092) | 3.056e-12 (3.652e-12) | 0.5092
+      40 | 0.5092 (0.5092..0.5092) | 4.431e-12 (6.993e-12) | 0.5092
+     100 | 0.5092 (0.5092..0.5092) | 3.033e-11 (4.902e-11) | 0.5092
+   stati con velocità > 0,05 m/s al passo 10: 50/50; al passo 100: 0/50
+   contatti allo stato salvato: 50/50 stati con compenetrazione > 0,1 mm; stato 0 (peggiori): living_room_table_col -2.92 cm, living_room_table_col -2.92 cm, living_room_table_col -2.92 cm
+-- MuJoCo 3.3.7 (oggetto: ketchup_1_main|ketchup_1_joint0); quota salvata mediana 0.4800 m
+   picco di quota: mediana 0.6491 m (min 0.6491, max 0.6491), al passo 4 (mediana)
+   passo | z mediana (min..max)        | velocità mediana (max)   | z stato 0
+       0 | 0.4800 (0.4800..0.4800) | 0 (0) | 0.4800
+       1 | 0.5594 (0.5594..0.5594) | 1.348 (1.348) | 0.5594
+       2 | 0.6139 (0.6139..0.6139) | 0.854 (0.854) | 0.6139
+       3 | 0.6438 (0.6438..0.6438) | 0.3619 (0.3619) | 0.6438
+       4 | 0.6491 (0.6491..0.6491) | 0.1288 (0.1288) | 0.6491
+       5 | 0.6300 (0.6300..0.6300) | 0.6185 (0.6185) | 0.6300
+       6 | 0.5863 (0.5863..0.5863) | 1.106 (1.106) | 0.5863
+       7 | 0.5184 (0.5184..0.5184) | 1.591 (1.591) | 0.5184
+       8 | 0.5092 (0.5092..0.5092) | 0.002097 (0.002097) | 0.5092
+       9 | 0.5092 (0.5092..0.5092) | 7.45e-05 (7.45e-05) | 0.5092
+      10 | 0.5092 (0.5092..0.5092) | 2.646e-06 (2.646e-06) | 0.5092
+      20 | 0.5092 (0.5092..0.5092) | 2.294e-14 (2.432e-14) | 0.5092
+      40 | 0.5092 (0.5092..0.5092) | 2.294e-14 (2.811e-14) | 0.5092
+     100 | 0.5092 (0.5092..0.5092) | 2.287e-14 (2.765e-14) | 0.5092
+   stati con velocità > 0,05 m/s al passo 10: 0/50; al passo 100: 0/50
+   contatti allo stato salvato: 50/50 stati con compenetrazione > 0,1 mm; stato 0 (peggiori): living_room_table_col -1.46 cm, living_room_table_col -1.46 cm, living_room_table_col -1.46 cm
+-- MuJoCo 3.8.1 (oggetto: ketchup_1_main|ketchup_1_joint0); quota salvata mediana 0.4800 m
+   picco di quota: mediana 1.1396 m (min 1.1396, max 1.1396), al passo 7 (mediana)
+   passo | z mediana (min..max)        | velocità mediana (max)   | z stato 0
+       0 | 0.4800 (0.4800..0.4800) | 0 (0) | 0.4800
+       1 | 0.6501 (0.6501..0.6501) | 3.154 (3.154) | 0.6501
+       2 | 0.7945 (0.7945..0.7945) | 2.641 (2.641) | 0.7945
+       3 | 0.9134 (0.9134..0.9134) | 2.136 (2.136) | 0.9134
+       4 | 1.0071 (1.0071..1.0071) | 1.635 (1.635) | 1.0071
+       5 | 1.0760 (1.0760..1.0760) | 1.139 (1.139) | 1.0760
+       6 | 1.1201 (1.1201..1.1201) | 0.6455 (0.6455) | 1.1201
+       7 | 1.1396 (1.1396..1.1396) | 0.1542 (0.1542) | 1.1396
+       8 | 1.1345 (1.1345..1.1345) | 0.3362 (0.3362) | 1.1345
+       9 | 1.1050 (1.1050..1.1050) | 0.8252 (0.8252) | 1.1050
+      10 | 1.0511 (1.0511..1.0511) | 1.312 (1.312) | 1.0511
+      20 | 0.5092 (0.5092..0.5092) | 2.324e-14 (2.751e-14) | 0.5092
+      40 | 0.5092 (0.5092..0.5092) | 2.324e-14 (2.751e-14) | 0.5092
+     100 | 0.5092 (0.5092..0.5092) | 2.323e-14 (2.751e-14) | 0.5092
+   stati con velocità > 0,05 m/s al passo 10: 50/50; al passo 100: 0/50
+   contatti allo stato salvato: 50/50 stati con compenetrazione > 0,1 mm; stato 0 (peggiori): living_room_table_col -2.92 cm, living_room_table_col -2.92 cm, living_room_table_col -2.92 cm
+
+=== libero_10 task 7: LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket
+-- MuJoCo 3.12.0 (oggetto: ketchup_1_main|ketchup_1_joint0); quota salvata mediana 0.4800 m
+   picco di quota: mediana 1.1396 m (min 1.1396, max 1.1396), al passo 7 (mediana)
+   passo | z mediana (min..max)        | velocità mediana (max)   | z stato 0
+       0 | 0.4800 (0.4800..0.4800) | 0 (0) | 0.4800
+       1 | 0.6501 (0.6501..0.6501) | 3.154 (3.154) | 0.6501
+       2 | 0.7945 (0.7945..0.7945) | 2.641 (2.641) | 0.7945
+       3 | 0.9134 (0.9134..0.9134) | 2.136 (2.136) | 0.9134
+       4 | 1.0071 (1.0071..1.0071) | 1.635 (1.635) | 1.0071
+       5 | 1.0760 (1.0760..1.0760) | 1.139 (1.139) | 1.0760
+       6 | 1.1201 (1.1201..1.1201) | 0.6455 (0.6455) | 1.1201
+       7 | 1.1396 (1.1396..1.1396) | 0.1542 (0.1542) | 1.1396
+       8 | 1.1345 (1.1345..1.1345) | 0.3362 (0.3362) | 1.1345
+       9 | 1.1050 (1.1050..1.1050) | 0.8252 (0.8252) | 1.1050
+      10 | 1.0511 (1.0511..1.0511) | 1.312 (1.312) | 1.0511
+      20 | 0.5092 (0.5092..0.5092) | 3.078e-12 (3.453e-12) | 0.5092
+      40 | 0.5092 (0.5092..0.5092) | 4.463e-12 (6.41e-12) | 0.5092
+     100 | 0.5092 (0.5092..0.5092) | 3.281e-11 (4.924e-11) | 0.5092
+   stati con velocità > 0,05 m/s al passo 10: 50/50; al passo 100: 0/50
+   contatti allo stato salvato: 50/50 stati con compenetrazione > 0,1 mm; stato 0 (peggiori): living_room_table_col -2.92 cm, living_room_table_col -2.92 cm, living_room_table_col -2.92 cm
+-- MuJoCo 3.3.7 (oggetto: ketchup_1_main|ketchup_1_joint0); quota salvata mediana 0.4800 m
+   picco di quota: mediana 0.6491 m (min 0.6491, max 0.6491), al passo 4 (mediana)
+   passo | z mediana (min..max)        | velocità mediana (max)   | z stato 0
+       0 | 0.4800 (0.4800..0.4800) | 0 (0) | 0.4800
+       1 | 0.5594 (0.5594..0.5594) | 1.348 (1.348) | 0.5594
+       2 | 0.6139 (0.6139..0.6139) | 0.854 (0.854) | 0.6139
+       3 | 0.6438 (0.6438..0.6438) | 0.3619 (0.3619) | 0.6438
+       4 | 0.6491 (0.6491..0.6491) | 0.1288 (0.1288) | 0.6491
+       5 | 0.6300 (0.6300..0.6300) | 0.6185 (0.6185) | 0.6300
+       6 | 0.5863 (0.5863..0.5863) | 1.106 (1.106) | 0.5863
+       7 | 0.5184 (0.5184..0.5184) | 1.591 (1.591) | 0.5184
+       8 | 0.5092 (0.5092..0.5092) | 0.002097 (0.002097) | 0.5092
+       9 | 0.5092 (0.5092..0.5092) | 7.45e-05 (7.45e-05) | 0.5092
+      10 | 0.5092 (0.5092..0.5092) | 2.646e-06 (2.646e-06) | 0.5092
+      20 | 0.5092 (0.5092..0.5092) | 2.294e-14 (2.778e-14) | 0.5092
+      40 | 0.5092 (0.5092..0.5092) | 2.294e-14 (2.774e-14) | 0.5092
+     100 | 0.5092 (0.5092..0.5092) | 2.294e-14 (2.726e-14) | 0.5092
+   stati con velocità > 0,05 m/s al passo 10: 0/50; al passo 100: 0/50
+   contatti allo stato salvato: 50/50 stati con compenetrazione > 0,1 mm; stato 0 (peggiori): living_room_table_col -1.46 cm, living_room_table_col -1.46 cm, living_room_table_col -1.46 cm
+-- MuJoCo 3.8.1 (oggetto: ketchup_1_main|ketchup_1_joint0); quota salvata mediana 0.4800 m
+   picco di quota: mediana 1.1396 m (min 1.1396, max 1.1396), al passo 7 (mediana)
+   passo | z mediana (min..max)        | velocità mediana (max)   | z stato 0
+       0 | 0.4800 (0.4800..0.4800) | 0 (0) | 0.4800
+       1 | 0.6501 (0.6501..0.6501) | 3.154 (3.154) | 0.6501
+       2 | 0.7945 (0.7945..0.7945) | 2.641 (2.641) | 0.7945
+       3 | 0.9134 (0.9134..0.9134) | 2.136 (2.136) | 0.9134
+       4 | 1.0071 (1.0071..1.0071) | 1.635 (1.635) | 1.0071
+       5 | 1.0760 (1.0760..1.0760) | 1.139 (1.139) | 1.0760
+       6 | 1.1201 (1.1201..1.1201) | 0.6455 (0.6455) | 1.1201
+       7 | 1.1396 (1.1396..1.1396) | 0.1542 (0.1542) | 1.1396
+       8 | 1.1345 (1.1345..1.1345) | 0.3362 (0.3362) | 1.1345
+       9 | 1.1050 (1.1050..1.1050) | 0.8252 (0.8252) | 1.1050
+      10 | 1.0511 (1.0511..1.0511) | 1.312 (1.312) | 1.0511
+      20 | 0.5092 (0.5092..0.5092) | 2.334e-14 (2.751e-14) | 0.5092
+      40 | 0.5092 (0.5092..0.5092) | 2.396e-14 (2.751e-14) | 0.5092
+     100 | 0.5092 (0.5092..0.5092) | 2.324e-14 (2.75e-14) | 0.5092
+   stati con velocità > 0,05 m/s al passo 10: 50/50; al passo 100: 0/50
+   contatti allo stato salvato: 50/50 stati con compenetrazione > 0,1 mm; stato 0 (peggiori): living_room_table_col -2.92 cm, living_room_table_col -2.92 cm, living_room_table_col -2.92 cm
+

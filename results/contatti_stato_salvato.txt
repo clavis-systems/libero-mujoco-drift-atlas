@@ -1,0 +1,40 @@
+MuJoCo 3.3.7 — compenetrazioni allo stato salvato (distanza < -0,1 mm), per corpo
+-- libero_10 task 0 stato 0 (LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato): 6 coppie di corpi compenetrate
+   living_room_table_col ~ ketchup_1_main: peggiore -1.46 cm, 8 contatti
+   living_room_table_col ~ orange_juice_1_main: peggiore -1.33 cm, 4 contatti
+   living_room_table_col ~ milk_1_main: peggiore -1.33 cm, 8 contatti
+   living_room_table_col ~ alphabet_soup_1_main: peggiore -0.77 cm, 84 contatti
+   living_room_table_col ~ butter_1_main: peggiore -0.27 cm, 4 contatti
+   living_room_table_col ~ cream_cheese_1_main: peggiore -0.03 cm, 4 contatti
+-- libero_10 task 7 stato 0 (LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_): 3 coppie di corpi compenetrate
+   living_room_table_col ~ ketchup_1_main: peggiore -1.46 cm, 8 contatti
+   living_room_table_col ~ alphabet_soup_1_main: peggiore -0.77 cm, 84 contatti
+   living_room_table_col ~ cream_cheese_1_main: peggiore -0.03 cm, 4 contatti
+MuJoCo 3.3.7 — compenetrazioni allo stato salvato (distanza < -0,1 mm), per corpo
+-- libero_spatial task 5 stato 0 (pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_pl): 0 coppie di corpi compenetrate
+-- libero_spatial task 5 stato 3 (pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_pl): 0 coppie di corpi compenetrate
+-- libero_spatial task 8 stato 0 (pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the): 0 coppie di corpi compenetrate
+-- libero_spatial task 8 stato 3 (pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the): 1 coppie di corpi compenetrate
+   akita_black_bowl_1_main ~ plate_1_main: peggiore -0.18 cm, 11 contatti
+MuJoCo 3.3.7 — compenetrazioni allo stato salvato (distanza < -0,1 mm), per corpo
+-- libero_goal task 8 stato 0 (put_the_bowl_on_the_plate): 0 coppie di corpi compenetrate
+MuJoCo 3.8.1 — compenetrazioni allo stato salvato (distanza < -0,1 mm), per corpo
+-- libero_10 task 0 stato 0 (LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato): 6 coppie di corpi compenetrate
+   living_room_table_col ~ ketchup_1_main: peggiore -2.92 cm, 8 contatti
+   living_room_table_col ~ orange_juice_1_main: peggiore -2.65 cm, 4 contatti
+   living_room_table_col ~ milk_1_main: peggiore -2.65 cm, 8 contatti
+   living_room_table_col ~ alphabet_soup_1_main: peggiore -1.54 cm, 84 contatti
+   living_room_table_col ~ butter_1_main: peggiore -0.55 cm, 4 contatti
+   living_room_table_col ~ cream_cheese_1_main: peggiore -0.07 cm, 4 contatti
+-- libero_10 task 7 stato 0 (LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_): 3 coppie di corpi compenetrate
+   living_room_table_col ~ ketchup_1_main: peggiore -2.92 cm, 8 contatti
+   living_room_table_col ~ alphabet_soup_1_main: peggiore -1.54 cm, 84 contatti
+   living_room_table_col ~ cream_cheese_1_main: peggiore -0.07 cm, 4 contatti
+MuJoCo 3.8.1 — compenetrazioni allo stato salvato (distanza < -0,1 mm), per corpo
+-- libero_spatial task 5 stato 0 (pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_pl): 0 coppie di corpi compenetrate
+-- libero_spatial task 5 stato 3 (pick_up_the_black_bowl_on_the_ramekin_and_place_it_on_the_pl): 0 coppie di corpi compenetrate
+-- libero_spatial task 8 stato 0 (pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the): 0 coppie di corpi compenetrate
+-- libero_spatial task 8 stato 3 (pick_up_the_black_bowl_next_to_the_plate_and_place_it_on_the): 1 coppie di corpi compenetrate
+   akita_black_bowl_1_main ~ plate_1_main: peggiore -0.36 cm, 11 contatti
+MuJoCo 3.8.1 — compenetrazioni allo stato salvato (distanza < -0,1 mm), per corpo
+-- libero_goal task 8 stato 0 (put_the_bowl_on_the_plate): 0 coppie di corpi compenetrate

@@ -1,0 +1,94 @@
+{
+ "mujoco": "3.12.0",
+ "robosuite": "1.4.0",
+ "numpy": "2.2.6",
+ "python": "3.12.15",
+ "piattaforma": "Linux-6.6.114.1-microsoft-standard-WSL2-x86_64-with-glibc2.43",
+ "suite": "libero_goal",
+ "seme_base": 0,
+ "passi_attesa": 10,
+ "freq_controllo": 20,
+ "sha256_script": "e4308ef1996a64e199ceb1b763b216f1929145818fe5069ecb3588b141ed3555",
+ "task": {
+  "0": {
+   "nome": "open_the_middle_drawer_of_the_cabinet",
+   "sha256_init": "977efe1216bee72bb4e9fa9ec4be1bcfe37fb00ece815eac117feba019b34b9f",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "01d512515464c5ef26f3aa6475bb930a1dd23c736b6cc194b57c58a4cb4230b9",
+   "secondi": 28.7
+  },
+  "1": {
+   "nome": "put_the_bowl_on_the_stove",
+   "sha256_init": "7c1819725af8d08988078d6efb98ddb6dbefadb2e6d20df4ed23a2074f4d9ed1",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "c296697cfce42d88f7948dd32328f66cd1604bf2052144097f22c64484b45409",
+   "secondi": 27.5
+  },
+  "2": {
+   "nome": "put_the_wine_bottle_on_top_of_the_cabinet",
+   "sha256_init": "b8c659d17c722bf848065bec6b4d088ab8e90f48b5ae991b2f118b0f2b5bbe4b",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "cc46bdc925fc9033dd15a44bb46d0c0aabf19f1e9deb6a4f812df8da5abf159c",
+   "secondi": 27.7
+  },
+  "3": {
+   "nome": "open_the_top_drawer_and_put_the_bowl_inside",
+   "sha256_init": "1cd5354ade9ab9f323a518515f961df96123b7daeca017df1f62d3e9ff18794f",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "3f0c68cfd5d18649de89800d87bf02eb606a360541f72f9d9787b4eb7ee0b288",
+   "secondi": 28.5
+  },
+  "4": {
+   "nome": "put_the_bowl_on_top_of_the_cabinet",
+   "sha256_init": "c0b7baf82f36f5304488bac91d788800a1c93d0a9fd19a73f448992d5366e145",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "ef43fa361c155ed5b27f658cc14315ee136bf7d643ebb9e01c8b511b400e1588",
+   "secondi": 28.7
+  },
+  "5": {
+   "nome": "push_the_plate_to_the_front_of_the_stove",
+   "sha256_init": "794beed679b18bbd7d9fb851c81877a974915ad63addff2d5ac5af0607fafac9",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "41a02a7fc7d38dd810f0d479d35d8a241fa3368723eff96974f16af500eafc68",
+   "secondi": 29.0
+  },
+  "6": {
+   "nome": "put_the_cream_cheese_in_the_bowl",
+   "sha256_init": "524de11d240f33b93d5218b1779a1ded1037950fcf865f07d0c0029cc48cf3f5",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "682095773d693202c1ef2eec1e20920600db2f81dce41d246d542afa8b8ac796",
+   "secondi": 27.8
+  },
+  "7": {
+   "nome": "turn_on_the_stove",
+   "sha256_init": "ed121db31d749647d70741c4c4ef0bd8e0876663986578795968e962d9b91340",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "c1c8c830640d1bf40d5e9ffd227e243886fa0faaee8f654f26ac01433a1b5534",
+   "secondi": 29.3
+  },
+  "8": {
+   "nome": "put_the_bowl_on_the_plate",
+   "sha256_init": "ef3466ffad734754dc40eba1f6f5712e37aa46b9692c595e0da34f16d3a0c668",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "65bef94dd96b3a597ec7d2afbd99ed30326438b8486d0c1a686dc75a818e578c",
+   "secondi": 28.5
+  },
+  "9": {
+   "nome": "put_the_wine_bottle_on_the_rack",
+   "sha256_init": "fa09aa4ade871c1c6be3dd8c93eb3437ea15190fd7dc73b8c986c8d2d3cfb062",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "330363bf920075597d453d619b981d0d777c12e910236f604e53abe5d5f1f7db",
+   "secondi": 28.5
+  }
+ }
+}

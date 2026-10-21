@@ -1,0 +1,94 @@
+{
+ "mujoco": "3.3.7",
+ "robosuite": "1.4.0",
+ "numpy": "2.2.6",
+ "python": "3.12.15",
+ "piattaforma": "Linux-6.6.114.1-microsoft-standard-WSL2-x86_64-with-glibc2.43",
+ "suite": "libero_object",
+ "seme_base": 0,
+ "passi_attesa": 10,
+ "freq_controllo": 20,
+ "sha256_script": "e4308ef1996a64e199ceb1b763b216f1929145818fe5069ecb3588b141ed3555",
+ "task": {
+  "0": {
+   "nome": "pick_up_the_alphabet_soup_and_place_it_in_the_basket",
+   "sha256_init": "b9023e5546b239cacb2aaa3c76df3b73c3de6f97500fea5e27a0db9827002a19",
+   "n_stati": 50,
+   "n_voci": 7,
+   "sha256_q10": "d0fb9dfe0ca10cffdea845fcd7bad09635a66ed9cff27d617062473e226d3fc3",
+   "secondi": 29.3
+  },
+  "1": {
+   "nome": "pick_up_the_cream_cheese_and_place_it_in_the_basket",
+   "sha256_init": "5ea5483bca8abd80a8f1935e2c60570d60eaaf6a985c283d62805b46fb76aa94",
+   "n_stati": 50,
+   "n_voci": 7,
+   "sha256_q10": "0fb2a5291a25568057fe347e7ce7947e12d9d3f310f921eaa30cb7b98978677c",
+   "secondi": 27.2
+  },
+  "2": {
+   "nome": "pick_up_the_salad_dressing_and_place_it_in_the_basket",
+   "sha256_init": "6f6793ee550419a4a79dcb6ac83a9ba7bbf5e76e92fef26b82b6a7a10f72b04a",
+   "n_stati": 50,
+   "n_voci": 7,
+   "sha256_q10": "b7169164a2d3290a915cc54336a50ecb78c6f9b1284c10b412fffce5db3f8269",
+   "secondi": 26.1
+  },
+  "3": {
+   "nome": "pick_up_the_bbq_sauce_and_place_it_in_the_basket",
+   "sha256_init": "c524077b0c23006f28fc06760a5b5ab37eee67287b5329e84a34b0a8bd599b4a",
+   "n_stati": 50,
+   "n_voci": 7,
+   "sha256_q10": "2a94887b7145b2ef4e67f0b40b80f8efee141aa7515a4b297a2da7e7783c6d2a",
+   "secondi": 24.9
+  },
+  "4": {
+   "nome": "pick_up_the_ketchup_and_place_it_in_the_basket",
+   "sha256_init": "b987f7b11e8f9b47353cd7882e1da38ecdf6ec9715ad8a84346583ea71049fd3",
+   "n_stati": 50,
+   "n_voci": 7,
+   "sha256_q10": "d0c744de14bd32d32200e11d162452af44abce795d046d02680ad7715bab7c42",
+   "secondi": 26.1
+  },
+  "5": {
+   "nome": "pick_up_the_tomato_sauce_and_place_it_in_the_basket",
+   "sha256_init": "2326da7ccacd3ebc75d80847f92d2e310b537b8dbbd8a76840a29b13f00f9a65",
+   "n_stati": 50,
+   "n_voci": 7,
+   "sha256_q10": "a1e659b4f6b961e94d5c0450e33a4723bdd36913e79778903ad767f661417d97",
+   "secondi": 22.4
+  },
+  "6": {
+   "nome": "pick_up_the_butter_and_place_it_in_the_basket",
+   "sha256_init": "f0925a8653c5902c5a4d78a2053365382ad7d05be7f059abe19c2004ffc5dc59",
+   "n_stati": 50,
+   "n_voci": 7,
+   "sha256_q10": "5b08121ebe93523c70aad00a13f047f415599337927f7c5a07b5e3fe46e3c80f",
+   "secondi": 24.5
+  },
+  "7": {
+   "nome": "pick_up_the_milk_and_place_it_in_the_basket",
+   "sha256_init": "4a86269faf4c98baff4c1428997ac828d00c56922a9a131be94e19b6027e1db2",
+   "n_stati": 50,
+   "n_voci": 7,
+   "sha256_q10": "5fab7c593472ffff447f5fc8b26f20839d5e44421debf27569ed19bc76fe250b",
+   "secondi": 28.0
+  },
+  "8": {
+   "nome": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket",
+   "sha256_init": "1124189363e76609da182dd92217cd02c41be58e88c42e3949d23ba160da75a5",
+   "n_stati": 50,
+   "n_voci": 7,
+   "sha256_q10": "40faef5730b3e3531169a8d49f03e635967ebf166243e60466a2cc483a18eb78",
+   "secondi": 25.2
+  },
+  "9": {
+   "nome": "pick_up_the_orange_juice_and_place_it_in_the_basket",
+   "sha256_init": "35b19ffab1fe08c6457ebd732c37d04b9bc0d22b7ce7de015986092ddddea151",
+   "n_stati": 50,
+   "n_voci": 7,
+   "sha256_q10": "8a6bef2739d4fc0b9abaed155f7b0afd15e45c8ebc0975edb8a0cef284ae40b9",
+   "secondi": 24.5
+  }
+ }
+}

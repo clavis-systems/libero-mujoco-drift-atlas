@@ -1,0 +1,94 @@
+{
+ "mujoco": "3.12.0",
+ "robosuite": "1.4.0",
+ "numpy": "2.2.6",
+ "python": "3.12.15",
+ "piattaforma": "Linux-6.6.114.1-microsoft-standard-WSL2-x86_64-with-glibc2.43",
+ "suite": "libero_10",
+ "seme_base": 0,
+ "passi_attesa": 10,
+ "freq_controllo": 20,
+ "sha256_script": "e4308ef1996a64e199ceb1b763b216f1929145818fe5069ecb3588b141ed3555",
+ "task": {
+  "0": {
+   "nome": "LIVING_ROOM_SCENE2_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket",
+   "sha256_init": "1899fe54c51e24a41d5f9e32254730d6777f4894ab68e0e873f1fa7ae2062030",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "27f1739b37e7ff64e0d2faf615112172cbe863968768a9d95fb1261ad762505a",
+   "secondi": 40.0
+  },
+  "1": {
+   "nome": "LIVING_ROOM_SCENE2_put_both_the_cream_cheese_box_and_the_butter_in_the_basket",
+   "sha256_init": "f8ac06ea8f43bb328d40cba1e6a9767da2f8f5386fd7ff3f845c64a96bf6d2ce",
+   "n_stati": 50,
+   "n_voci": 8,
+   "sha256_q10": "b48e4b5794ed8f19f7ed34361e5a354e8bbfaaeee797866737efc2b358820cd1",
+   "secondi": 36.0
+  },
+  "2": {
+   "nome": "KITCHEN_SCENE3_turn_on_the_stove_and_put_the_moka_pot_on_it",
+   "sha256_init": "02a8401f8d59f5447fc8c5a16f4c158dd8c426c3eaed6779927a2a53e9abf3c5",
+   "n_stati": 50,
+   "n_voci": 3,
+   "sha256_q10": "ab6debdf0e216e45fe4abbbeb2c7e52e323e098ea789e50a488c30c020be0cd2",
+   "secondi": 18.1
+  },
+  "3": {
+   "nome": "KITCHEN_SCENE4_put_the_black_bowl_in_the_bottom_drawer_of_the_cabinet_and_close_it",
+   "sha256_init": "e98ded151f64a036c74c872336dd09b968c379f3c9db7bc333aba37e7c235b86",
+   "n_stati": 50,
+   "n_voci": 5,
+   "sha256_q10": "a984060ea75041501bda373c456f8ad73088dca9f2644d0f2719777c55c1b6e4",
+   "secondi": 48.0
+  },
+  "4": {
+   "nome": "LIVING_ROOM_SCENE5_put_the_white_mug_on_the_left_plate_and_put_the_yellow_and_white_mug_on_the_right_plate",
+   "sha256_init": "b6f20784b381c75d715f4fdaadda1fb460cbe24adcbad76f381a009419b8474e",
+   "n_stati": 50,
+   "n_voci": 5,
+   "sha256_q10": "4babf432ad12e89a795b645f0afc6ae18dd03f7d4fd2390c949cd78f7886a608",
+   "secondi": 56.9
+  },
+  "5": {
+   "nome": "STUDY_SCENE1_pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy",
+   "sha256_init": "6cd3937ba18d64e72223222af36888d26ea201840415adbc4dae590454d0a5a8",
+   "n_stati": 50,
+   "n_voci": 2,
+   "sha256_q10": "cbbef72a5abf5f5fd1e00fecea0e02d266a2aad605e0ef23c03aa2f39a998483",
+   "secondi": 41.4
+  },
+  "6": {
+   "nome": "LIVING_ROOM_SCENE6_put_the_white_mug_on_the_plate_and_put_the_chocolate_pudding_to_the_right_of_the_plate",
+   "sha256_init": "6e811394c4ff9a43ae23515d8512e9b657c04344b94dd5baed121b595490514f",
+   "n_stati": 50,
+   "n_voci": 4,
+   "sha256_q10": "d2374a84c225d013f0b5e74ddb53dc3b98433ff7c6b14d6ef2ee19c41e83cbe0",
+   "secondi": 50.0
+  },
+  "7": {
+   "nome": "LIVING_ROOM_SCENE1_put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket",
+   "sha256_init": "2113ea5923fcbbe1b57b428383934496072f062729d0b72d3021573d55d25abc",
+   "n_stati": 50,
+   "n_voci": 5,
+   "sha256_q10": "3af765f1f5e0651145c8a85fb605563472584615027aac587ec4400de9a6b697",
+   "secondi": 28.4
+  },
+  "8": {
+   "nome": "KITCHEN_SCENE8_put_both_moka_pots_on_the_stove",
+   "sha256_init": "44f992e911c84a1340589510ecdaf947a4872966f7678c8364d8bb5d13dc4dac",
+   "n_stati": 50,
+   "n_voci": 3,
+   "sha256_q10": "b2bc47d0073b8a83ab6ede5c74ff8207888582229106a32ad6d33573f2b19e99",
+   "secondi": 18.9
+  },
+  "9": {
+   "nome": "KITCHEN_SCENE6_put_the_yellow_and_white_mug_in_the_microwave_and_close_it",
+   "sha256_init": "6b75c8d4d1e1c40b5d99c78ceea380d99ccffb0a484a4cb2d3153488a0afbbe2",
+   "n_stati": 50,
+   "n_voci": 3,
+   "sha256_q10": "273e4d529e9ad7b27983e9c7b32b357fdf9ffa5f559f6ac7fb39ce6089d307e0",
+   "secondi": 42.8
+  }
+ }
+}
